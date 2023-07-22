@@ -5,7 +5,7 @@
       {
         "name": "Green Lattice",
         "sources": [
-          "https://files.catbox.moe/5axw1j.png"
+          "https://github.com/artillect/greenlattice-template/blob/main/lattice_template.png?raw=true"
         ],
         "x": 1500,
         "y": 453
