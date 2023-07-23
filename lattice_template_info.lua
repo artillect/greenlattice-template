@@ -7,8 +7,8 @@
         "sources": [
           "https://github.com/artillect/greenlattice-template/blob/main/lattice_template.png?raw=true"
         ],
-        "x": 1500,
-        "y": 453
+        "x": 1395,
+        "y": 93
       }
     ],
     "whitelist": [],
