@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      3.3
 // @description  r/place autoplacer.
-// @author       ChoosenEye & Matze
+// @author       ChoosenEye & Matze (with modifications by Artillect)
 // @match        https://garlic-bread.reddit.com/embed*
 // @icon         https://place.staiy.live/staiy_raw.png
 // @require      https://cdn.jsdelivr.net/npm/toastify-js
@@ -13,9 +13,9 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @resource     TOASTIFY_STYLE https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css
-// @connect      place.staiy.live
-// @updateURL    https://place.staiy.live/autoplacer.user.js
-// @downloadURL  https://place.staiy.live/autoplacer.user.js
+// @connect      github.com
+// @updateURL    https://github.com/artillect/greenlattice-template/raw/main/autoplacer.user.js
+// @downloadURL  https://github.com/artillect/greenlattice-template/raw/main/autoplacer.user.js
 // ==/UserScript==
 
 const METADATA_URL = "https://github.com/artillect/greenlattice-template/raw/main/metadata.json";
